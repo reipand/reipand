@@ -149,7 +149,7 @@ Build → Secure → Scale
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/reipand/reipand/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/reipand/reipand/output/github-contribution-grid-snake.svg)" />
+  <img src="https://raw.githubusercontent.com/reipand/reipand/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
