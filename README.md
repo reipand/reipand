@@ -94,8 +94,8 @@ Build → Secure → Scale
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reipand&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reipand&theme=tokyonight" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ Build → Secure → Scale
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reipand&theme=tokyo-night" />
 </p>
 
 ---
