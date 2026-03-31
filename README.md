@@ -130,7 +130,7 @@ Build → Secure → Scale
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:reisanadrefa1@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com">
@@ -149,11 +149,11 @@ Build → Secure → Scale
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/reiapnd/reipand/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=reipand&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
