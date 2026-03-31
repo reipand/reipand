@@ -15,9 +15,34 @@
 
 * 🔭 Currently building **BCStore Ecosystem**
 * 🌱 Learning **System Design, Cyber Security, DevOps**
-* ⚙️ Focus on **Backend, API, Discord Bot**
+* ⚙️ Focus on **Backend, API, System Architecture**
 * 💡 Into **OSINT, Cloud, Reverse Engineering**
 * 🎯 Goal: Build scalable & secure systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 BCStore Ecosystem
+
+> Fullstack Store Management System
+
+* ⚙️ REST API (Express + MySQL)
+* 🔐 JWT Auth + Role System
+* 💰 Wallet & Payment Integration
+* 📊 Sales & Profit Dashboard
+* 🧾 Auto Invoice Generator
+
+---
+
+### 🔐 Secure API System
+
+> Scalable backend architecture with security-first approach
+
+* API Key Management
+* Rate Limiting
+* Activity Logging
+* Request Validation
 
 ---
 
@@ -29,15 +54,40 @@
 
 ---
 
+## 🧰 Environment
+
+```bash
+OS        : Fedora Linux
+Editor    : VSCode / Neovim
+Terminal  : Bash / Zsh
+Process   : PM2
+Version   : Git
+```
+
+---
+
 ## 🔥 Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Bot-Discord.js-5865F2?style=for-the-badge&logo=discord"/>
+  <img src="https://img.shields.io/badge/API-Security-red?style=for-the-badge&logo=databricks"/>
   <img src="https://img.shields.io/badge/System-Linux-black?style=for-the-badge&logo=linux"/>
 </p>
+
+---
+
+## 🧠 Dev Philosophy
+
+```text
+Build → Secure → Scale
+
+• Clean & maintainable code
+• Security-first mindset
+• Automation over manual work
+• System > Script
+```
 
 ---
 
@@ -58,10 +108,19 @@
 
 ---
 
+## 🎯 2026 Goals
+
+* [ ] Build production-ready backend system
+* [ ] Launch BCStore publicly
+* [ ] Master DevOps (CI/CD + Docker)
+* [ ] Improve system security & scaling
+
+---
+
 ## 🧠 Current Focus
 
 ```bash
-> Building BCStore (API + Bot + Dashboard)
+> Building BCStore (API + Dashboard)
 > Secure API System (JWT + API Keys)
 > Scaling backend services
 ```
@@ -81,9 +140,19 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Signature
 
-> I automate everything… so I can do nothing 😎
+> "I don't just code, I build systems."
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
