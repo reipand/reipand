@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently building **BCStore Ecosystem**
 * 🌱 Learning **System Design, Cyber Security, DevOps**
 * ⚙️ Focus on **Backend, API, System Architecture**
 * 💡 Into **OSINT, Cloud, Reverse Engineering**
